@@ -14,3 +14,4 @@ joblib==1.2.0
 pickle-mixin==1.0.2
 missingno==0.5.2
 category_encoders==2.6.0
+gunicorn==20.1.1
